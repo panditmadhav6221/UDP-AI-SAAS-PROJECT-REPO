@@ -22,5 +22,5 @@ This repository contains my UDP AI SaaS Minor Project submission. The project de
 ## Author
 
 **Name:** Madhav Pandit
-**Batch:** UDP_AI_SAAS
+**Batch:** AI_SAAS
 **Student ID:** MadhavPandit-AISaaS-0703
